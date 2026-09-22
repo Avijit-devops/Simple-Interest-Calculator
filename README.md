@@ -61,3 +61,4 @@ $$\text{SI} = \frac{1000 \times 5 \times 2}{100} = 100$$
 ## License
 
 This project is licensed under the Apache 2.0 / MIT License.
+A simple interest calculator written in Bash.
