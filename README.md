@@ -10,3 +10,5 @@ It calculates simple interest given principal, annual rate of interest, and time
 
 ## Output:
 - simple interest = p*t*r/100
+
+Author: Avijit-devops
